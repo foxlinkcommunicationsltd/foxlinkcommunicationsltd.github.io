@@ -51,7 +51,7 @@ Error generating stack: `+i.message+`
         bg-gradient-to-r from-brand-primary/0 via-brand-primary/5 to-brand-accent/0
         opacity-0 group-hover:opacity-100
         transition-opacity duration-300
-      `})]})}const pp="/assets/logo-DToSJrny.png";function mp(){return p.jsx("a",{href:"/",children:p.jsxs("div",{className:"flex items-center space-x-2",children:[p.jsx("img",{src:pp,alt:"Foxlink Communications Logo",className:"h-12 w-auto"}),p.jsxs("span",{className:"text-xl font-bold text-white",children:["Foxlink ",p.jsx("span",{className:"text-brand-light",children:"Communications"})]})]})})}/**
+      `})]})}const pp="/foxlinkcommunicationsltd.github.io/assets/logo-DToSJrny.png";function mp(){return p.jsx("a",{href:"/",children:p.jsxs("div",{className:"flex items-center space-x-2",children:[p.jsx("img",{src:pp,alt:"Foxlink Communications Logo",className:"h-12 w-auto"}),p.jsxs("span",{className:"text-xl font-bold text-white",children:["Foxlink ",p.jsx("span",{className:"text-brand-light",children:"Communications"})]})]})})}/**
  * @license lucide-react v0.344.0 - ISC
  *
  * This source code is licensed under the ISC license.
